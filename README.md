@@ -5,12 +5,13 @@ Greetings, fellow developers and web enthusiasts! I'm Navneet, a front-end wizar
 
 ## About Me ✨
 
-I thrive on turning imaginative designs into pixel-perfect, interactive realities. My toolkit includes HTML, CSS, and JavaScript, along with a bag full of modern frameworks and tools that I wield to create magic on the screen.
+I thrive on turning imaginative designs into pixel-perfect, interactive realities. My toolkit includes HTML, CSS, and Figma, JavaScript, along with a bag full of modern frameworks and tools that I wield to create magic on the screen.
 
 ## Skills & Spells 🧙‍♂️
 
 - HTML5 🌐
 - CSS3 / SASS / LESS 🎨
+- Figma 🎨
 - JavaScript (ES6+) 🚀
 - React / Angular / Vue.js ⚛️
 - Bootstrap / Tailwind CSS 🌈

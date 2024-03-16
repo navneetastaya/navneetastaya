@@ -13,7 +13,7 @@ I thrive on turning imaginative designs into pixel-perfect, interactive realitie
 - CSS3 / SASS / LESS 🎨
 - Figma 🎨
 - JavaScript (ES6+) 🚀
-- React / Angular / Vue.js ⚛️
+- React ⚛️
 - Bootstrap / Tailwind CSS 🌈
 - Responsive Incantations 📱
 - Version Control Charms (Git) 🔮

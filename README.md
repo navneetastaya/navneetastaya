@@ -1,4 +1,6 @@
 # Hi, I'm **Navneet**! 👋
+# Title
+🎨 Web Designer & Developer | UI/UX Specialist 🖥️
 
 ![Logo](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
@@ -9,8 +11,7 @@ Experienced in web design and development, I specialize in creating visually cap
 
 
 
-# Title
-🎨 Web Designer & Developer | UI/UX Specialist 🖥️
+
 # Description
 Experienced Web Designer and Developer proficient in creating responsive and visually appealing websites. Skilled in HTML, CSS, JavaScript, Bootstrap, and Figma 🚀. Strong background in UI/UX design, with a focus on user-centric solutions 🌟. MCA graduate with a passion for innovative web development and a proven track record of successful project delivery 🎓. Open to exciting opportunities to leverage my skills and contribute to meaningful projects. Connect with me to explore collaborations and discuss potential projects 💬.
 

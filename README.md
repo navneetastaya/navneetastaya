@@ -1,15 +1,13 @@
 # Hi, I'm **Navneet**! 👋
-# Title
-🎨 Web Designer & Developer | UI/UX Specialist 🖥️
+
 
 ![Logo](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 
-## 🚀 About Me
-
-Experienced in web design and development, I specialize in creating visually captivating and user-friendly websites. With proficiency in HTML, CSS, JavaScript, Bootstrap, and Figma, I ensure responsive and innovative designs tailored to user needs. Holding a Master's degree in Computer Applications (MCA), I am dedicated to delivering successful projects driven by a passion for excellence. My expertise in UI/UX design enables me to create engaging experiences that prioritize user satisfaction. Currently seeking new opportunities, I am eager to collaborate on meaningful projects and contribute my skills to impactful initiatives. Let's connect and discuss how we can work together to bring your vision to life! 🌐💻🎨
 
 
+# Title
+🎨 Web Designer & Developer | UI/UX Specialist 🖥️
 
 
 # Description
@@ -19,7 +17,9 @@ Experienced Web Designer and Developer proficient in creating responsive and vis
 
 ![Logo](https://cdn.rentechdigital.com/common_files/blogs/dotcom-blog/what-is-a-design-first-strategy-in-web-design-1-content-first-vs-design-first-strategy-in-web-design-which-is-better-dotcom-blog-14-8-23.gif)
 
+## 🚀 About Me
 
+Experienced in web design and development, I specialize in creating visually captivating and user-friendly websites. With proficiency in HTML, CSS, JavaScript, Bootstrap, and Figma, I ensure responsive and innovative designs tailored to user needs. Holding a Master's degree in Computer Applications (MCA), I am dedicated to delivering successful projects driven by a passion for excellence. My expertise in UI/UX design enables me to create engaging experiences that prioritize user satisfaction. Currently seeking new opportunities, I am eager to collaborate on meaningful projects and contribute my skills to impactful initiatives. Let's connect and discuss how we can work together to bring your vision to life! 🌐💻🎨
 
 # Acknowledgements
 

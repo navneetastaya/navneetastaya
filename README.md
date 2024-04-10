@@ -3,7 +3,7 @@
 
 
 
-## 🚀 About Me
+# 🚀 About Me
 
 Experienced in web design and development, I specialize in creating visually captivating and user-friendly websites. With proficiency in HTML, CSS, JavaScript, Bootstrap, and Figma, I ensure responsive and innovative designs tailored to user needs. Holding a Master's degree in Computer Applications (MCA), I am dedicated to delivering successful projects driven by a passion for excellence. My expertise in UI/UX design enables me to create engaging experiences that prioritize user satisfaction. Currently seeking new opportunities, I am eager to collaborate on meaningful projects and contribute my skills to impactful initiatives. Let's connect and discuss how we can work together to bring your vision to life! 🌐💻🎨
 

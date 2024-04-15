@@ -14,9 +14,8 @@ Experienced in web development, I specialize in crafting visually captivating an
 
 
 # Title
-🎨  "Frontend Developer | Web Designer & Developer | Specializing in Responsive Web Design and User Experience Optimization"
-
- 🖥️
+🎨  "Frontend Developer | Web Designer & Developer |
+ Specializing in Responsive Web Design and User Experience Optimization"🖥️
 
 # Description
 Experienced Web Designer and Developer proficient in creating responsive and visually appealing websites. Skilled in HTML, CSS, JavaScript, Bootstrap, and Figma 🚀. Strong background in UI/UX design, with a focus on user-centric solutions 🌟. MCA graduate with a passion for innovative web development and a proven track record of successful project delivery 🎓. Open to exciting opportunities to leverage my skills and contribute to meaningful projects. Connect with me to explore collaborations and discuss potential projects 💬.

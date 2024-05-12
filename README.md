@@ -5,7 +5,7 @@
 
 # 🚀 About Me
 
-Experienced in web development, I specialize in crafting visually captivating and user-friendly websites. With proficiency in HTML, CSS, JavaScript, and Bootstrap, I ensure responsive and innovative designs tailored to user needs. Leveraging tools like Figma for design collaboration, I bring projects to life with a keen eye for detail and functionality. Holding a Master's degree in Computer Applications (MCA), I am dedicated to delivering successful projects driven by a passion for excellence. My expertise lies in frontend development, focusing on implementing designs and optimizing user experiences. Currently seeking new opportunities, I am eager to collaborate on meaningful projects and contribute my skills to impactful initiatives. Let's connect and discuss how we can work together to bring your vision to life!
+Experienced in web development, I specialize in crafting visually captivating and user-friendly websites. With proficiency in HTML, CSS, JavaScript,figma, and Bootstrap, I ensure responsive and innovative designs tailored to user needs. Leveraging tools like Figma for design collaboration, I bring projects to life with a keen eye for detail and functionality. Holding a Master's degree in Computer Applications (MCA), I am dedicated to delivering successful projects driven by a passion for excellence. My expertise lies in frontend development, focusing on implementing designs and optimizing user experiences. Currently seeking new opportunities, I am eager to collaborate on meaningful projects and contribute my skills to impactful initiatives. Let's connect and discuss how we can work together to bring your vision to life!
 🌐💻🎨
 
 
@@ -14,8 +14,7 @@ Experienced in web development, I specialize in crafting visually captivating an
 
 
 # Title
-🎨  "Frontend Developer | Web Designer & Developer |
- Specializing in Responsive Web Design and User Experience Optimization"🖥️
+Master of Digital Aesthetics: Front-End Developer Redefining Tomorrow's Web Experience with CSS, HTML, JavaScript, Bootstrap, and Figma | MCA Alumnus | Open to Global Collaborations ✨
 
 # Description
 Experienced Frontend Developer proficient in creating responsive and visually appealing websites. Skilled in HTML, CSS, JavaScript, Bootstrap, and Figma 🚀. Strong background in frontend development, with a focus on user-centric solutions 🌟. MCA graduate with a passion for innovative web development and a proven track record of successful project delivery 🎓. Open to exciting opportunities to leverage my skills and contribute to meaningful projects. Connect with me to explore collaborations and discuss potential projects.💬.

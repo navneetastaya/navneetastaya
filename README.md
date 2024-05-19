@@ -47,6 +47,7 @@ I am dedicated to contributing to open-source development and maintaining an act
 - **Car Landing page design**: https://navneetastaya.github.io/M4-landingpage/ .
 - **Navneet-Portfolio**: https://navneetastaya.github.io/Navneet-Portfolio/ .
 - **MP Tourism website**: https://navneetastaya.github.io/MP-Tourism/ .
+- **Bubblegame**: https://navneetastaya.github.io/Bubblegame/
 -  **Blog Page Design**: https://navneetastaya.github.io/The-Diverse-Charms-of-Madhya-Pradesh/ .
 -  **More** : https://navneetastaya.github.io/3_3cards_hover/ .
 
